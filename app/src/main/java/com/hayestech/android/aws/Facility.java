@@ -21,7 +21,7 @@ public class Facility {
         this.siteNumber = siteNumber;
     }
 
-    public Facility(String address, String siteNumber) {
+    public Facility(String siteNumber, String address) {
         this.address = address;
         this.siteNumber = siteNumber;
     }

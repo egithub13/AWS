@@ -1,3 +1,87 @@
 <resources>
     <string name="app_name">AWS</string>
+    <array name="siteNumbers">
+        <item>IAD_1</item>
+        <item>IAD_2</item>
+        <item>IAD_4</item>
+        <item>IAD_5</item>
+        <item>IAD_6</item>
+        <item>IAD_7</item>
+        <item>IAD_8</item>
+        <item>IAD_9</item>
+        <item>IAD_10</item>
+        <item>IAD_11</item>
+        <item>IAD_12</item>
+        <item>IAD_13</item>
+        <item>IAD_14</item>
+        <item>IAD_15</item>
+        <item>IAD_16</item>
+        <item>IAD_21</item>
+        <item>IAD_22</item>
+        <item>IAD_23</item>
+        <item>IAD_24</item>
+        <item>IAD_32</item>
+        <item>IAD_50</item>
+        <item>IAD_51</item>
+        <item>IAD_52</item>
+        <item>IAD_53</item>
+        <item>IAD_54</item>
+        <item>IAD_55</item>
+        <item>IAD_56</item>
+        <item>IAD_57</item>
+        <item>IAD_58</item>
+        <item>IAD_59</item>
+        <item>IAD_60</item>
+        <item>IAD_61</item>
+        <item>IAD_66</item>
+        <item>IAD_67</item>
+        <item>IAD_69</item>
+        <item>IAD_71</item>
+        <item>IAD_73</item>
+        <item>IAD_74</item>
+        <item>IAD_76</item>
+        <item>IAD_77</item>
+    </array>
+    <array name="siteAddresses">
+        <item>4101A westfax drive,chantilly,va</item>
+        <item>21715 filigree court,ashburn,va</item>
+        <item>7990 science applications court,ashburn,va</item>
+        <item>21830 uunet way,ashburn,va</item>
+        <item>43831 devin shafron drive,ashburn,va</item>
+        <item>7505 mason king court, manassas, va</item>
+        <item>13461 sunrise valley drive,herndon,va</item>
+        <item>4100 westfax drive,chantilly,va</item>
+        <item>45360 west severn way,sterling,va</item>
+        <item>7510 mason king court,manassas,va</item>
+        <item>22630 dulles summit court,sterling,va</item>
+        <item>43790 devin shafron drive,ashburn,va</item>
+        <item>11801 brewers spring road,manassas,va</item>
+        <item>22631 dulles summit court,sterling,va</item>
+        <item>22651 dulles summit court,sterling,va</item>
+        <item>12900 worldgate drive,herndon,va</item>
+        <item>4155 westfax drive,chantilly,va</item>
+        <item>43830 devin shafron drive,ashburn,va</item>
+        <item>7610 mason king court,manassas,va</item>
+        <item>1304 squire court,sterling,va</item>
+        <item>21271 smith switch road,ashburn,va</item>
+        <item>45220 prologis plaza,sterling,va</item>
+        <item>11800 brewers spring road,manassas,va</item>
+        <item>12100 sunrise vallet drive,reston,va</item>
+        <item>43791 devin shafron drive,ashburn,va</item>
+        <item>15395 john marshall highway,haymarket,va</item>
+        <item>45210 prologis plaza,sterling,va</item>
+        <item>22755 relocation drive,sterling,va</item>
+        <item>22745 relocation drive,sterling,va</item>
+        <item>7600 doane drive,manassas,va</item>
+        <item>21267 smith switch road,ashburn,va</item>
+        <item>43736 clubber lane,chantilly,va</item>
+        <item>21721 filigree court,ashburn,va</item>
+        <item>43490 digital loudoun plaza,ashburn,va</item>
+        <item>21111 ridgetop circle,sterling,va</item>
+        <item>21263 smith switch road,ashburn,va</item>
+        <item>7060 wellington road,manassas,va</item>
+        <item>7080 wellington road,manassas,va</item>
+        <item>22520 randolf drive,sterling,va</item>
+        <item>9651 hornbaker road,manassas,va</item>
+    </array>
 </resources>

@@ -25,9 +25,10 @@ public class MainActivity extends AppCompatActivity {
         cardView = (CardView) findViewById(R.id.card_view);
         siteNumbers = new ArrayList<>();
 
-        for(int i=0;i<100;i++){
+        for(int i=0;i<getResources().getStringArray(R.array.siteAddresses).length;i++){
             String temp = String.valueOf("#"+i);
-            Facility facility = new Facility(temp);
+            Facility facility = new Facility(getResources().getStringArray(R.array.siteNumbers)[i].toString(),
+                    getResources().getStringArray(R.array.siteAddresses)[i].toString());
             siteNumbers.add(facility);
 
         }
